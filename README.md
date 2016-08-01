@@ -8,9 +8,7 @@
                                                                                   \ \____/
                                                                                    \/___/
 
-Underscore.js is a utility-belt library for JavaScript that provides
-support for the usual functional suspects (each, map, reduce, filter...)
-without extending any core JavaScript objects.
+Underscore.js 是一个JavaScript实用带库,他为不可靠的(each, map, reduce, filter...)常用的功能提供支持，且没有延伸任何的核心JavaScript对象。
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
